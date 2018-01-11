@@ -1,8 +1,3 @@
 ---
-layout: default
-title: Waterloo Votes
+layout: home
 ---
-<div class="blurb">
-	<h1>Waterloo Votes</h1>
-	<p>In progress...</p>
-</div><!-- /.blurb -->
