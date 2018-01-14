@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Supporting local democracy in Waterloo
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://waterloovotes.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://waterloovotes.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: waterloovotes
 #github_username:  kzurell
